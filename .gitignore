@@ -14,3 +14,9 @@ Idno/.idea/.name
 
 /.DS_Store
 /*/.DS_Store
+
+#idno custom plugins:
+/IdnoPlugins/Twitter
+/IdnoPlugins/Facebook
+/IdnoPlugins/Homepro
+
